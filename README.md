@@ -11,4 +11,11 @@
 # Descripción
 > El software [Social neighborhood](https://github.com/social-neighborhood/social-neighborhood) busca brindar un contacto mas facil entre administrador y residentes evitando problemas como falta de comunicación y posibilitando un acceso más facil a información actual o pasada y a la vez una facil gestión de pagos de los servicios que el conjunto presta (administración, parqueadero, gimnasio, etc.); sin embargo software de este tipo ya existian, por lo cual se opta por brindar un par de servcios mas como es el caso de crear un canal de comunicación via publicaciones (tipo post) en el cual los residentes puedan brindarse información entre ellos de una manera mas general y facil de propagar y por ultimo un espacio donde se pueda apartar las zonas sociales (piscina, salon comunal, cancha, sauna, etc.) quitando asi el tiempo de espera que tienen los residentes para poder reunirse con la administración y ademas llevar un optimo control del manejo y acceso de estas zonas por parte de la administración.
 
+# Licencia & Derechos de Autor
+
+**©** Ana Maria Salazar Bohorquez, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
+**©** Juan Camilo Posso Guevara, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
+**©** Richard Santiago Urrea Garcia, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
+
+Licencia bajo la [GNU General Public License](/LICENSE).
 
