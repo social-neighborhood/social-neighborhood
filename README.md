@@ -13,9 +13,6 @@
 
 # Licencia & Derechos de Autor
 
-**©** Ana Maria Salazar Bohorquez, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
-**©** Juan Camilo Posso Guevara, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
-**©** Richard Santiago Urrea Garcia, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
-
+**©** Ana Maria Salazar Bohorquez, Juan Camilo Posso Guevara, Richard Santiago Urrea Garcia. [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/)  
 Licencia bajo la [GNU General Public License](/LICENSE).
 
