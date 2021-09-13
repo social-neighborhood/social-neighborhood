@@ -23,7 +23,11 @@
 
 ## Posts
 
-![](img/posts.jpeg)
+![](img/posts.jpeg) 
+
+## Posts
+
+![](img/Crearcion posts.jpeg)
 
 # Enlace Taiga
 [![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/richardug-social-neighborhood/backlog)
