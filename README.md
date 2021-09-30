@@ -19,23 +19,23 @@
 
 ## Diagrama de casos de uso
 
-![](img/casosdeuso.PNG)
+![](img/casosdeuso.png)
 
 ## Diagrama de entidad-relación
 
-![](/img/entidad)
+![](/img/entidad.png)
 
 ## Diagrama de clases
 
-![](/img/clases.PNG)
+![](/img/clases.png)
 
 ## Diagrama de despliegue
 
-![](/img/despliegue.PNG)
+![](/img/despliegue.png)
 
 ## Diagrama C&C
 
-![](/img/C&C.PNG)
+![](/img/C&C.png)
 
 # Prototipo
 
@@ -61,7 +61,7 @@
 
 # Enlace heroku
 
-[![](/img/heroku.PNG)](https://tree.taiga.io/project/richardug-social-neighborhood/backlog)
+[![](/img/heroku.png)](https://tree.taiga.io/project/richardug-social-neighborhood/backlog)
 
 # Licencia & Derechos de Autor
 
