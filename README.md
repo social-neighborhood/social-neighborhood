@@ -65,8 +65,8 @@
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1096bc7137441e0a750793c3e5f53fd)](https://www.codacy.com/gh/social-neighborhood/social-neighborhood/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=social-neighborhood/social-neighborhood&amp;utm_campaign=Badge_Grade)
-
-[![CircleCI](https://circleci.com/gh/social-neighborhood/social-neighborhood/tree/main.svg?style=svg)](https://circleci.com/gh/social-neighborhood/social-neighborhood/tree/main)
+[![CircleCI](https://circleci.com/gh/Let-s-support/2021-1-PROYCVDS-LetsSupport.svg?style=svg)](https://app.circleci.com/pipelines/github/Let-s-support/2021-1-PROYCVDS-LetsSupport)
+[![CircleCI](https://app.circleci.com/gh/social-neighborhood/social-neighborhood/tree/main.svg?style=svg)](https://app.circleci.com/pipelines/github/social-neighborhood/social-neighborhood)
 
 # Licencia & Derechos de Autor
 
