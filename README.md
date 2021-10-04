@@ -61,7 +61,7 @@
 
 # Enlace heroku
 
-[![](/img/herokuimg.png)](https://tree.taiga.io/project/richardug-social-neighborhood/backlog)
+[![](/img/herokuimg.png)](https://dashboard.heroku.com/apps/socialneighborhood)
 
 # Licencia & Derechos de Autor
 
