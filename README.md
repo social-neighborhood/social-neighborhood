@@ -66,6 +66,8 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1096bc7137441e0a750793c3e5f53fd)](https://www.codacy.com/gh/social-neighborhood/social-neighborhood/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=social-neighborhood/social-neighborhood&amp;utm_campaign=Badge_Grade)
 
+[![CircleCI](https://circleci.com/gh/social-neighborhood/social-neighborhood/tree/main.svg?style=svg)](https://circleci.com/gh/social-neighborhood/social-neighborhood/tree/main)
+
 # Licencia & Derechos de Autor
 
 **©** Ana Maria Salazar Bohorquez, Juan Camilo Posso Guevara, Richard Santiago Urrea Garcia. [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/)  
