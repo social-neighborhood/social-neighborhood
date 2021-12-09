@@ -10,6 +10,8 @@
 > 
 # Descripción
 > El software [Social neighborhood](https://github.com/social-neighborhood/social-neighborhood) busca brindar un contacto más fácil entre administrador y residentes evitando problemas como falta de comunicación y posibilitando un acceso más fácil a información actual o pasada y a la vez una fácil gestión de pagos de los servicios que el conjunto presta (administración, parqueadero, gimnasio, etc.); sin embargo software de este tipo ya existen, por lo cual se opta por brindar un par de servicios más como es el caso de crear un canal de comunicación vía publicaciones (tipo post) en el cual los residentes puedan brindarse información entre ellos de una manera más general y fácil de propagar y por ultimo un espacio donde se pueda apartar las zonas sociales (piscina, salón comunal, cancha, sauna, etc.) quitando así el tiempo de espera que tienen los residentes para poder reunirse con la administración y además llevar un óptimo control del manejo y acceso de estas zonas por parte de la administración.
+> 
+> [Pesentación Social neighborhood](https://github.com/social-neighborhood/social-neighborhood/raw/main/social-neighborhood.pptx)
 
 ## [Back-end](https://github.com/social-neighborhood/social-neighborhood-back-end)
 
@@ -62,6 +64,12 @@
 ## [Manual de usuario Social residentes](https://github.com/social-neighborhood/social-neighborhood/raw/main/manuales/Manual%20de%20usuario%20Social%20residentes.pdf)
 
 ## [Manual de usuario Social administradores](https://github.com/social-neighborhood/social-neighborhood/raw/main/manuales/Manual%20de%20usuario%20Social%20administradores.pdf)
+
+# Requerimientos no funcionales
+
+## [Laboratiorio en azure de disponibilidad de servicio back](https://github.com/social-neighborhood/social-neighborhood/raw/main/Requerimientos%20no%20funcionales/Explicacion%20disponibildad.mp4)
+
+## [Muestra cambio Usabilidad minimalista, estetica y diseño](https://github.com/social-neighborhood/social-neighborhood/raw/main/Requerimientos%20no%20funcionales/Usabilidad.pptx)
 
 # Enlace Taiga
 [![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/richardug-social-neighborhood/backlog)
