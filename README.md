@@ -55,6 +55,14 @@
 
 ![](img/Creacion%20posts.jpeg)
 
+# Manuales de usuario
+
+## [Manual de usuario Social basico](https://github.com/social-neighborhood/social-neighborhood/raw/main/manuales/Manual%20de%20usuario%20Social%20basico.pdf)
+
+## [Manual de usuario Social residentes](https://github.com/social-neighborhood/social-neighborhood/raw/main/manuales/Manual%20de%20usuario%20Social%20residentes.pdf)
+
+## [Manual de usuario Social administradores](https://github.com/social-neighborhood/social-neighborhood/raw/main/manuales/Manual%20de%20usuario%20Social%20administradores.pdf)
+
 # Enlace Taiga
 [![Managed with Taiga.io](https://img.shields.io/badge/managed%20with-TAIGA.io-709f14.svg)](https://tree.taiga.io/project/richardug-social-neighborhood/backlog)
 
